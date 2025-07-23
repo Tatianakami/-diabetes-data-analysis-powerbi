@@ -31,10 +31,10 @@ A base de dados utilizada foi `diabetes.csv`, contendo informações sobre pacie
 
 ## 📈 Dashboards Criados
 
-### 🔹 Média de BloodPressure e Glucose por Faixa Etária
+### 🔹 Média 
 > ![Dashboard 1](/GRAFICO1.jpg)
 
-### 🔹 Médias de DiabetesPedigreeFunction e BMI por Número de Gestações
+### 🔹 Médias 
 > ![Dashboard 2](/GRAFICO2.jpg)
 
 
